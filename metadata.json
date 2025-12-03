@@ -1,0 +1,7 @@
+{
+  "name": "BarScan AI",
+  "description": "A smart 1D barcode scanner that uses Google Gemini to identify products instantly.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
